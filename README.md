@@ -1,3 +1,2 @@
-# Exploring Various Types of Quantum Algorithms
-Quantum Algorithms in Qiskit
-So Far: Superdense Coding
+# Exploring Implementations of Various Quantum Algorithms
+So Far: Superdense Coding.
