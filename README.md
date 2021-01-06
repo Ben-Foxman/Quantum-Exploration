@@ -1,2 +1,2 @@
 # Exploring Implementations of Various Quantum Algorithms
-A new project associated with Yale Undergraduate Quantum Computing.
+Repository associated with a new project proposal for Yale Undergraduate Quantum Computing.
