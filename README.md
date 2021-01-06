@@ -1,2 +1,2 @@
 # Exploring Implementations of Various Quantum Algorithms
-So Far: Superdense Coding.
+A new project associated with Yale Undergraduate Quantum Computing.
